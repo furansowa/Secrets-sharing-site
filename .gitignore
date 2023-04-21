@@ -1,0 +1,4 @@
+node_modules
+.env
+app_old.js
+app_old2.js
